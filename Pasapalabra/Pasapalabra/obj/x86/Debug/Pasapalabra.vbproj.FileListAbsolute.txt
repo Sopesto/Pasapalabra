@@ -1,0 +1,17 @@
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\x86\Debug\Pasapalabra.exe.config
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\x86\Debug\Pasapalabra.exe.manifest
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\x86\Debug\Pasapalabra.application
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\x86\Debug\Pasapalabra.exe
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\x86\Debug\Pasapalabra.pdb
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.botonSonido.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.comoJugar.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.inicio.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.juego.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.Resources.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.puntuaciones.resources
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.vbproj.GenerateResource.Cache
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.exe.manifest
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.application
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.exe
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\x86\Debug\Pasapalabra.pdb

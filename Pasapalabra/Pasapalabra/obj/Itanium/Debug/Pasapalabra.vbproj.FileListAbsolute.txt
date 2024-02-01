@@ -1,0 +1,3 @@
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\bin\Itanium\Debug\Pasapalabra.exe.config
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\Itanium\Debug\Interop.WMPLib.dll
+C:\Users\estudiante\Desktop\Proyecto Final\Pasapalabra\Pasapalabra\obj\Itanium\Debug\Pasapalabra.vbproj.ResolveComReference.cache

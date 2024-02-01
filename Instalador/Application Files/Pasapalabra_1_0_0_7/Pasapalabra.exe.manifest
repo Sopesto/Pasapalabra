@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.7" name="Pasapalabra.exe" publicKeyToken="f7d4cf99254611f8" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Pasapalabra" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Pasapalabra.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto de Control de cuentas de usuario
+             Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+             nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Si desea utilizar la virtualización de archivos y del Registro para la compatibilidad 
+            con versiones anteriores, elimine el nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Sentinel.v3.5Client" version="3.5.0.0" publicKeyToken="b03f5f7f11d50a3a" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="61440">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5a4WTwmNoQ2QFSAxbFvcLcXqIBM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="339968">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>JucyfNxtGDqBm9arvIFlqt90zr4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pasapalabra.exe" size="47616">
+      <assemblyIdentity name="Pasapalabra" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Pwa0WZgNEFp6jYo/CkA/5PX/riM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Pasapalabra.exe.config" size="1423">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nAiV948d85hzLKuSUW9PvSkNokE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=alumnost14-PC\alumnost14" issuerKeyHash="8121855c1d1c444e9cfb81f3e5543cb7372edc17" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>4KpDug4ikjDsNKmFdtpW7U4DdrU=</DigestValue></Reference></SignedInfo><SignatureValue>gJTVOFSxygt8iulnqCuBBNYPFqnbgpqaWqxc/hirAparW81TrBAbOBpuKwcz8put6Q6p7bUIcvowKb141VylxSbg97mMuHgIVo/9GTXiw8a1fo2ZOCe0IO47m8qmFrqtZIlE3hbI+M+C5HD30CIhUyqtk6naHAf41J9d4/GdG6A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lmgvJNe4B10Well/EHH83og05HImA/hBThGxZGpZYupP6/ktiGdlugKI6jezktsMt7VJzmC/U5vE0nwPKqXP68w48BWcoXsqk1rZM12UhSby/jVj9mr9b3hZyQDKd7vMX5uc9WGuZnvcFKM4k9knINVb/+3VmlgK9YZ1KJoF4IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b576034eed56da7685a934ec3092220eba43aae0" Description="" Url=""><as:assemblyIdentity version="1.0.0.7" name="Pasapalabra.exe" publicKeyToken="f7d4cf99254611f8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=alumnost14-PC\alumnost14</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5Tw73F7R34UUzhL24AYECD5DlRI=</DigestValue></Reference></SignedInfo><SignatureValue>AbPsGduZVINItAqnkYYrPXYjXBg2Uh40K6KcmtHQA1Q6GNTUnhjscEx3po100mYbnnMqn9tMS+V0e8caRijPHagA0inrxJiejQmFGEPI48i9iMaJDoA82ORAQYUhHn0yQC3OZKyxO4ItfICOePKJLT6dXPU41FIhXQEtaSFq1Nc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lmgvJNe4B10Well/EHH83og05HImA/hBThGxZGpZYupP6/ktiGdlugKI6jezktsMt7VJzmC/U5vE0nwPKqXP68w48BWcoXsqk1rZM12UhSby/jVj9mr9b3hZyQDKd7vMX5uc9WGuZnvcFKM4k9knINVb/+3VmlgK9YZ1KJoF4IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQNghpy8qv4JFPmdAFKXe0RTANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAAYQBsAHUAbQBuAG8AcwB0ADEANAAtAFAAQwBcAGEAbAB1AG0AbgBvAHMAdAAxADQwHhcNMjMxMDExMjA1ODQ3WhcNMjQxMDExMDI1ODQ3WjA7MTkwNwYDVQQDHjAAYQBsAHUAbQBuAG8AcwB0ADEANAAtAFAAQwBcAGEAbAB1AG0AbgBvAHMAdAAxADQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJZoLyTXuAddFnpZfxBx/N6INORyJgP4QU4RsWRqWWLqT+v5LYhnZboCiOo3s5LbDLe1Sc5gv1ObxNJ8Dyqlz+vMOPAVnKF7KpNa2TNdlIUm8v41Y/Zq/W94WckAyne7zF+bnPVhrmZ73BSjOJPZJyDVW//t1ZpYCvWGdSiaBeCBAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAAbQR/nv1XNJ5xaEuQDFblLUbJ98FwWY7Lmy/pCkNmpcbFHMba41I2xHktDJDKboKzS8ZmxZDerXlCdckBnvIQNeTAgxZdDp0XGrRDPjrf2qrxGNlAowAZvs3PHxY3h9gMyccCj6DmtPgur4JvUFzmdV3g5+Qt4IO8N27NMC3NQc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

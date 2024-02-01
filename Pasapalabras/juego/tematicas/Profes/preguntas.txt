@@ -1,0 +1,27 @@
+(Comienza con A) Apellido mejor profesora de programación de la EEST N°14.
+(Comienza con B) Siglas de Beginners' All-purpose Symbolic Instruction Code​, es una familia de lenguajes de programación de alto nivel.
+(Comienza con C) Apellido mejor profesor de programación de la EEST N°14.
+(Comienza con D) Familia de sistemas operativos para computadoras personales. Creado originalmente para computadoras de la familia IBM PC.
+(Comienza con E) Lenguaje informático que se basa en el empleo de nombres que representan las posiciones de memoria, los códigos de operación y las macroinstrucciones.
+(Comienza con F) Conjunto de reglas y convenciones que se usan para desarrollar software de manera más eficiente y rápida.
+(Contiene G) Grabación secuencial en un archivo o en una base de datos de todos los acontecimientos que afectan a un proceso particular.
+(Comienza con H) Nombre de la función criptográfica que genera identificadores únicos e irrepetibles a partir de una información dada.
+(Contiene I) Núcleo mayormente libre semejante al núcleo de Unix. Es uno de los principales ejemplos de software libre y de código abierto.
+(Contiene J) También llamado algoritmo de caminos mínimos, es un algoritmo para la determinación del camino más corto, dado un vértice origen, hacia el resto de los vértices en un grafo que tiene pesos en cada arista.
+(Comienza con K) Software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado conocido también como modo núcleo.
+(Comienza con L) Nombre mejor alumno que tuvo en la historia de la EEST N°14.
+(Contiene M) Paradigma que permite desarrollar programas a través de procedimientos. Mediante una serie de instrucciones, se explica paso por paso cómo funciona el código para que el proceso sea lo más claro posible.
+(Contiene N) Características de edición de código como la finalización inteligente de código y el acceso rápido a la documentación.
+(Contiene Ñ) Elemento de interfaz que permite visualizar varias páginas en la misma ventana del navegador, reduciendo el número de ventanas abiertas.
+(Contiene O) Servidor, programa o dispositivo que hace de intermediario en las peticiones de recursos que realiza un cliente a un servidor.
+(Comienza con P) Lenguaje de programación de programación estructurada y estructuración de datos, creado por el profesor suizo Niklaus Wirth, publicado en 1970.
+(Contiene Q) Lenguaje específico de dominio, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.
+(Comienza con R) Memoria de alta velocidad y poca capacidad, integrada en el microprocesador, que permite guardar transitoriamente y acceder a valores muy usados, generalmente en operaciones matemáticas.
+(Contiene S) Interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting. Originalmente escrito por Brian Fox para el sistema operativo GNU.
+(Contiene T) Arquitectura informática comúnmente conocida como Transformer y que en la práctica funciona como una red neuronal que ha sido diseñada para procesar secuencias de texto.
+(Comienza con U) Lenguaje gráfico de modelado de sistemas de software, utilizado para visualizar, especificar, construir y documentar un sistema.
+(Comienza con V) Zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo.
+(Comienza con W) Familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas.
+(Contiene X) Colección de API desarrolladas para facilitar las complejas tareas relacionadas con multimedia, especialmente programación de juegos y vídeo, en la plataforma Microsoft Windows.
+(Contiene Y) Unidad de información compuesta por ocho bits.
+(Contiene Z) Plataforma de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos.

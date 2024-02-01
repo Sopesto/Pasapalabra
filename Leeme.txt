@@ -1,0 +1,4 @@
+Seguir la siguiente ruta para abrir el juego:
+Proyecto Final -> Pasapalabra -> Pasapalabra -> bin -> Debug -> Pasapalabra.exe
+Si no encontrás los .exe o no los pudiste descargar abrí el proyecto en visual basic y ejecutalo desde ahí, está en:
+Proyecto Final -> Pasapalabra

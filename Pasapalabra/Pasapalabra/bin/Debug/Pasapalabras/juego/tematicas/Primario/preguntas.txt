@@ -1,0 +1,27 @@
+(Comienza con A) Medio de transporte que vuela.
+(Comienza con B) Animal nocturno que tiene los ojos muy grandes.
+(Comienza con C) Lo contrario de largo.
+(Comienza con D) Séptimo día de la semana, viene después del sábado.
+(Comienza con E) Animal con una trompa muy larga.
+(Comienza con F) Persona que hace fotos.
+(Comienza con G) Enemigo del perro.
+(Comienza con H) Los ponen las gallinas y de ahí nacen los pollitos.
+(Comienza con I) Casa de hielo donde viven los esquimales.
+(Comienza con J) Animal que tiene el cuello muy alto.
+(Comienza con K) Animal que parece un oso pequeño, que le encanta subirse a los árboles y vive en Australia.
+(Comienza con L) Persona que roba cosas.
+(Comienza con M) Mueble con forma de tablero horizontal que sirve para comer y hacer los deberes.
+(Comienza con N) Parte de la cara que está entre los ojos y la boca y que sirve para oler y respirar.
+(Comienza con Ñ) Tipo de nudo que se usa en los trajes.
+(Comienza con O) Los utilizas para ver.
+(Comienza con P) Animal doméstico que ladra.
+(Comienza con Q) Comida que gusta mucho a los ratones.
+(Comienza con R) Color de las fresas y los tomates.
+(Comienza con S) Te sientas en ella.
+(Comienza con T) Aparato que sirve para ver los dibujos animados y las noticias.
+(Comienza con U) Fruta que comemos por año nuevo y que crece en racimos.
+(Comienza con V) Animal que da leche.
+(Contiene W) Fruta marrón por fuera y verde por dentro.
+(Contiene X) Persona que conduce un taxi.
+(Contiene Y) Personaje que hace reír a los niños.
+(Comienza con Z) Los llevas puestos en los pies.
